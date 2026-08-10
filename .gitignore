@@ -1,0 +1,17 @@
+# Hardhat folders
+artifacts/
+cache/
+
+# Dependencies
+node_modules/
+
+# Environments / secrets
+.env
+
+# Coverage/Testing
+coverage/
+coverage.json
+typechain-types/
+
+# Hardhat Ignition deployments
+ignition/deployments/
